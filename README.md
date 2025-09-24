@@ -8,4 +8,4 @@
 
 <img width="2560" height="1080" alt="2025-09-24 21_26_24-Greenshot" src="https://github.com/user-attachments/assets/a9608fea-3324-4632-ad05-eed98e543e7b" />
 
-Scenedemo of my sinplasma effect in under 8 kb incl. animation, plasma effects, melodic sound
+Scenedemo of my sinplasma effect in under 8 kb incl. animation, plasma effects, morphs, sound
